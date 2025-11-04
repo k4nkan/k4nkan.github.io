@@ -5,6 +5,9 @@ on:
     - cron: "0 21 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   save-logs:
     runs-on: ubuntu-latest
