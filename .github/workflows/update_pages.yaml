@@ -1,4 +1,4 @@
-name: Save Spotify Logs
+name: update-pages
 
 on:
   schedule:
