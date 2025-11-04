@@ -259,4 +259,6 @@ You can change the formatting rules by editing `.prettierrc`.
 
 ## Contributing
 Contributions for this template are welcome at [GitHub Repository](https://github.com/sanchezyspace/next-template).
+
+
 [top](https://k4nkan.github.io/)

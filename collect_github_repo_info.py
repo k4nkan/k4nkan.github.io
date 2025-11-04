@@ -7,21 +7,20 @@ import pandas as pd
 GITHUB_API_TOKEN = os.environ["GITHUB_API_TOKEN"]
 
 def fetch_repo(user: str) -> pd.DataFrame:
-    """fetch github repo"""
+    """fetch github repos list"""
     try:
         url = f"https://api.github.com/users/{user}/repos"
         res = requests.get(
             url, timeout=10, headers={"Authorization": f"Bearer {GITHUB_API_TOKEN}"}
         ).json()
         return pd.DataFrame(res)
-
     except Exception as e:
-        print(f"fetch repo failed with {e}")
+        print(f"fetch_repo failed with {e}")
         return pd.DataFrame()
 
 
 def output_repo(user: str, title: str):
-    """output repo data"""
+    """fetch and save README for each repo"""
     try:
         url = f"https://api.github.com/repos/{user}/{title}/readme"
         res = requests.get(
@@ -29,28 +28,32 @@ def output_repo(user: str, title: str):
         ).json()
 
         if "download_url" in res:
-            result = requests.get(res["download_url"], timeout=10).text
-            file_name = f"{title}.md"
-            with open(f"documents/{file_name}", "w", encoding="utf-8") as f:
-                f.write(result)
-                f.write("[top](https://k4nkan.github.io/)")
+            md_url = res["download_url"]
+            md_content = requests.get(md_url, timeout=10).text
+
+            folder_path = f"documents/{title}"
+            os.makedirs(folder_path, exist_ok=True)
+
+            index_path = os.path.join(folder_path, "index.md")
+            with open(index_path, "w", encoding="utf-8") as f:
+                f.write(md_content)
+                f.write("\n\n[top](https://k4nkan.github.io/)\n")
 
             with open("README.md", "a", encoding="utf-8") as f:
-                f.write(f"[{title}](https://k4nkan.github.io/ducuments/{title}/)\n\n")
+                f.write(f"[{title}](https://k4nkan.github.io/documents/{title}/)\n\n")
 
-            print(f"update done in {title}")
+            print(f"✅ {title}: index.md created and linked")
 
         else:
-            print(f"no README in {title}")
+            print(f"ℹ️ No README found in {title}")
 
     except Exception as e:
-        print(f"output repo failed with {e}")
+        print(f"output_repo failed with {e}")
 
 
 def main():
-    """main func for get github data"""
+    """main function"""
     user = "k4nkan"
-
     repo_data = fetch_repo(user)
 
     with open("README.md", "w", encoding="utf-8") as f:
@@ -59,6 +62,8 @@ def main():
     if not repo_data.empty:
         for title in repo_data["name"]:
             output_repo(user, title)
+    else:
+        print("No repositories found.")
 
 
 if __name__ == "__main__":
