@@ -57,7 +57,7 @@ def main():
     repo_data = fetch_repo(user)
 
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write("# k4nkan.github.io\n\n## link\n\n")
+        f.write("# [k4nkan.github.io](https://k4nkan.github.io/)\n\n## link\n\n")
 
     if not repo_data.empty:
         for title in repo_data["name"]:
