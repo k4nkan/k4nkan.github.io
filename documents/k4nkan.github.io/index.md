@@ -2,191 +2,208 @@
 
 ## ast-diff-research
 
-Repo Link : [ast-diff-research](https://github.com/k4nkan.ast-diff-research)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [ast-diff-research](https://github.com/k4nkan/ast-diff-research)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/ast-diff-research/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/ast-diff-research/)
 
----## DailyLogs
+## DailyLogs
 
-Repo Link : [DailyLogs](https://github.com/k4nkan.DailyLogs)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
 
----## guruguru-cat
+## guruguru-cat
 
-Repo Link : [guruguru-cat](https://github.com/k4nkan.guruguru-cat)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [guruguru-cat](https://github.com/k4nkan/guruguru-cat)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/guruguru-cat/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/guruguru-cat/)
 
----## hackathon-2023-TeamC
+## hackathon-2023-TeamC
 
-Repo Link : [hackathon-2023-TeamC](https://github.com/k4nkan.hackathon-2023-TeamC)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [hackathon-2023-TeamC](https://github.com/k4nkan/hackathon-2023-TeamC)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/hackathon-2023-TeamC/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/hackathon-2023-TeamC/)
 
----## hitokoma
+## hitokoma
 
-Repo Link : [hitokoma](https://github.com/k4nkan.hitokoma)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [hitokoma](https://github.com/k4nkan/hitokoma)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
 
----## idea-search
+## idea-search
 
-Repo Link : [idea-search](https://github.com/k4nkan.idea-search)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [idea-search](https://github.com/k4nkan/idea-search)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/idea-search/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/idea-search/)
 
----## ironavi
+## ironavi
 
-Repo Link : [ironavi](https://github.com/k4nkan.ironavi)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [ironavi](https://github.com/k4nkan/ironavi)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/ironavi/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/ironavi/)
 
----## k4nkan
+## k4nkan
 
-Repo Link : [k4nkan](https://github.com/k4nkan.k4nkan)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [k4nkan](https://github.com/k4nkan/k4nkan)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/k4nkan/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/k4nkan/)
 
----## k4nkan.github.io
+## k4nkan.github.io
 
-Repo Link : [k4nkan.github.io](https://github.com/k4nkan.k4nkan.github.io)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [k4nkan.github.io](https://github.com/k4nkan/k4nkan.github.io)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/k4nkan.github.io/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/k4nkan.github.io/)
 
----## kanta_portfolio
+## kanta_portfolio
 
-Repo Link : [kanta_portfolio](https://github.com/k4nkan.kanta_portfolio)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [kanta_portfolio](https://github.com/k4nkan/kanta_portfolio)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/kanta_portfolio/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/kanta_portfolio/)
 
----## lab_code2vec
+## lab_code2vec
 
-Repo Link : [lab_code2vec](https://github.com/k4nkan.lab_code2vec)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [lab_code2vec](https://github.com/k4nkan/lab_code2vec)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
 
----## Lit-Kansai-Hackathon-2024
+## Lit-Kansai-Hackathon-2024
 
-Repo Link : [Lit-Kansai-Hackathon-2024](https://github.com/k4nkan.Lit-Kansai-Hackathon-2024)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [Lit-Kansai-Hackathon-2024](https://github.com/k4nkan/Lit-Kansai-Hackathon-2024)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/Lit-Kansai-Hackathon-2024/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/Lit-Kansai-Hackathon-2024/)
 
----## memories
+## memories
 
-Repo Link : [memories](https://github.com/k4nkan.memories)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [memories](https://github.com/k4nkan/memories)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/memories/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/memories/)
 
----## photo-to-3d-to-website
+## photo-to-3d-to-website
 
-Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan.photo-to-3d-to-website)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
 
----## popup-sample
+## popup-sample
 
-Repo Link : [popup-sample](https://github.com/k4nkan.popup-sample)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [popup-sample](https://github.com/k4nkan/popup-sample)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
 
----## save-spotify-logs
+## save-spotify-logs
 
-Repo Link : [save-spotify-logs](https://github.com/k4nkan.save-spotify-logs)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
 
----## watnow-2024-spring-project
+## watnow-2024-spring-project
 
-Repo Link : [watnow-2024-spring-project](https://github.com/k4nkan.watnow-2024-spring-project)
+> [Note]
 
-Last Updated : yyyy.mm.dd
+> Repo Link : [watnow-2024-spring-project](https://github.com/k4nkan/watnow-2024-spring-project)
 
-Languages : `languages1`,`languages2`,`languages3`
+> Last Updated : yyyy.mm.dd
 
-### [`Watch Detail`](https://k4nkan.github.io/documents/watnow-2024-spring-project/)
+> Languages : `languages1` , `languages2` , `languages3`
 
+[`Watch Detail`](https://k4nkan.github.io/documents/watnow-2024-spring-project/)
 
----
+
 
 [top](https://k4nkan.github.io/)

@@ -43,10 +43,13 @@ def output_repo(user: str, title: str):
             with open("README.md", "a", encoding="utf-8") as f:
                 lines = [
                     f"## {title}\n\n",
-                    "> [Note]\n\n",
-                    f"> Repo Link : [{title}](https://github.com/{user}/{title})\n\n",
-                    f"> Last Updated : yyyy.mm.dd\n\n",
-                    f"> Languages : `languages1` , `languages2` , `languages3`\n\n",
+                    "> [Note]\n",
+                    ">\n",
+                    f"> Repo Link : [{title}](https://github.com/{user}/{title})\n",
+                    ">\n",
+                    "> Last Updated : yyyy.mm.dd\n",
+                    ">\n",
+                    "> Languages : `languages1` , `languages2` , `languages3`\n\n",
                     f"[`Watch Detail`](https://{user}.github.io/documents/{title}/)\n\n",
                 ]
                 f.writelines(lines)
