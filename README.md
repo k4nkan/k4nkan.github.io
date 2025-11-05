@@ -2,7 +2,7 @@
 
 ## ast-diff-research
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [ast-diff-research](https://github.com/k4nkan/ast-diff-research)
 >
@@ -14,7 +14,7 @@
 
 ## DailyLogs
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
 >
@@ -26,7 +26,7 @@
 
 ## guruguru-cat
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [guruguru-cat](https://github.com/k4nkan/guruguru-cat)
 >
@@ -38,7 +38,7 @@
 
 ## hackathon-2023-TeamC
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [hackathon-2023-TeamC](https://github.com/k4nkan/hackathon-2023-TeamC)
 >
@@ -50,7 +50,7 @@
 
 ## hitokoma
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [hitokoma](https://github.com/k4nkan/hitokoma)
 >
@@ -62,7 +62,7 @@
 
 ## idea-search
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [idea-search](https://github.com/k4nkan/idea-search)
 >
@@ -74,7 +74,7 @@
 
 ## ironavi
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [ironavi](https://github.com/k4nkan/ironavi)
 >
@@ -86,7 +86,7 @@
 
 ## k4nkan
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [k4nkan](https://github.com/k4nkan/k4nkan)
 >
@@ -98,7 +98,7 @@
 
 ## k4nkan.github.io
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [k4nkan.github.io](https://github.com/k4nkan/k4nkan.github.io)
 >
@@ -110,7 +110,7 @@
 
 ## kanta_portfolio
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [kanta_portfolio](https://github.com/k4nkan/kanta_portfolio)
 >
@@ -122,7 +122,7 @@
 
 ## lab_code2vec
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [lab_code2vec](https://github.com/k4nkan/lab_code2vec)
 >
@@ -134,7 +134,7 @@
 
 ## Lit-Kansai-Hackathon-2024
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [Lit-Kansai-Hackathon-2024](https://github.com/k4nkan/Lit-Kansai-Hackathon-2024)
 >
@@ -146,7 +146,7 @@
 
 ## memories
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [memories](https://github.com/k4nkan/memories)
 >
@@ -158,7 +158,7 @@
 
 ## photo-to-3d-to-website
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
 >
@@ -170,7 +170,7 @@
 
 ## popup-sample
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [popup-sample](https://github.com/k4nkan/popup-sample)
 >
@@ -182,7 +182,7 @@
 
 ## save-spotify-logs
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
 >
@@ -194,7 +194,7 @@
 
 ## watnow-2024-spring-project
 
-> [Note]
+> [!Note]
 >
 > Repo Link : [watnow-2024-spring-project](https://github.com/k4nkan/watnow-2024-spring-project)
 >
