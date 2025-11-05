@@ -43,8 +43,6 @@ def output_repo(user: str, title: str):
             with open("README.md", "a", encoding="utf-8") as f:
                 lines = [
                     f"## {title}\n\n",
-                    "> [!Note]\n",
-                    ">\n",
                     f"> Repo Link : [{title}](https://github.com/{user}/{title})\n",
                     ">\n",
                     "> Last Updated : yyyy.mm.dd\n",
