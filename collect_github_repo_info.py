@@ -6,6 +6,7 @@ import pandas as pd
 
 GITHUB_API_TOKEN = os.environ["GITHUB_API_TOKEN"]
 
+
 def fetch_repo(user: str) -> pd.DataFrame:
     """fetch github repos list"""
     try:
@@ -37,10 +38,17 @@ def output_repo(user: str, title: str):
             index_path = os.path.join(folder_path, "index.md")
             with open(index_path, "w", encoding="utf-8") as f:
                 f.write(md_content)
-                f.write("\n\n[top](https://k4nkan.github.io/)\n")
+                f.write(f"\n\n[top](https://{user}.github.io/)\n")
 
             with open("README.md", "a", encoding="utf-8") as f:
-                f.write(f"[{title}](https://k4nkan.github.io/documents/{title}/)\n\n")
+                lines = [
+                    f"## {title}\n\n",
+                    f"Repo Link : [{title}](https://{user}.{title})\n\n",
+                    f"Last Updated : yyyy.mm.dd\n\n",
+                    f"Languages : `languages1`,`languages2`,`languages3`\n\n",
+                    f"### [`Watch Detail`](https://{user}.github.io/documents/{title}/)\n\n",
+                ]
+                f.writelines(lines)
 
             print(f"✅ {title}: index.md created and linked")
 
@@ -57,7 +65,7 @@ def main():
     repo_data = fetch_repo(user)
 
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write("# [k4nkan.github.io](https://k4nkan.github.io/)\n\n## link\n\n")
+        f.write("# [k4nkan.github.io](https://k4nkan.github.io/)\n\n")
 
     if not repo_data.empty:
         for title in repo_data["name"]:
