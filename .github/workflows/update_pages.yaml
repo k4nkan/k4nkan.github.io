@@ -32,8 +32,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run collect_github_repo_info
-        run: python collect_github_repo_info.py
+      - name: Run Script
+        run: python main.py
 
       - name: Commit and push changes
         run: |
