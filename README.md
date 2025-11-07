@@ -88,9 +88,9 @@
 
 > Repo Link : [k4nkan](https://github.com/k4nkan/k4nkan)
 >
-> Description : No Description
+> Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Last Updated : 2025-11-06T20:20:57Z
+> Last Updated : 2025-11-07T14:18:41Z
 >
 > Languages : `Python`
 
@@ -100,9 +100,9 @@
 
 > Repo Link : [k4nkan.github.io](https://github.com/k4nkan/k4nkan.github.io)
 >
-> Description : No Description
+> Description : Save data from the GitHub API to Markdown and deploy it to GitHub Pages.
 >
-> Last Updated : 2025-11-06T19:17:35Z
+> Last Updated : 2025-11-07T14:19:15Z
 >
 > Languages : `Python`
 
@@ -160,9 +160,9 @@
 
 > Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
 >
-> Description : No Description
+> Description : Convert an image into a 3D model and render it using HTML, CSS, JavaScript, and Three.js.
 >
-> Last Updated : 2025-10-15T03:22:21Z
+> Last Updated : 2025-11-07T14:09:12Z
 >
 > Languages : `JavaScript`, `HTML`, `CSS`
 
