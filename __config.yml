@@ -1,8 +1,1 @@
-title: k4nkan.github.io
-description: My personal GitHub portfolio and projects
-theme: jekyll-theme-cayman
-url: "https://k4nkan.github.io"
-github_username: k4nkan
-
-show_downloads: false
-markdown: kramdown
+theme: jekyll-theme-minimal
