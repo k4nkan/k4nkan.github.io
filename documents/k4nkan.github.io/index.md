@@ -90,7 +90,7 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Last Updated : 2025-11-08T20:17:43Z
+> Last Updated : 2025-11-09T20:18:09Z
 >
 > Languages : `Python`
 
@@ -102,7 +102,7 @@
 >
 > Description : Save data from the GitHub API to Markdown and deploy it to GitHub Pages.
 >
-> Last Updated : 2025-11-07T21:09:40Z
+> Last Updated : 2025-11-08T21:10:16Z
 >
 > Languages : `Python`
 
@@ -206,4 +206,6 @@
 
 
 
-[top](https://k4nkan.github.io/)
+---
+
+[`Go Back to Top Page`](https://k4nkan.github.io/)

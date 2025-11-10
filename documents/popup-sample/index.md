@@ -7,4 +7,6 @@ A simple sample web page using HTML, CSS, and JavaScript.
 [Demo Page](https://relaxed-gecko-52d65c.netlify.app/)
 
 
-[top](https://k4nkan.github.io/)
+---
+
+[`Go Back to Top Page`](https://k4nkan.github.io/)

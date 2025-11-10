@@ -105,4 +105,6 @@ git pull
   （例）  [issues/3] sectionタグにトップ画像を追加
 
 
-[top](https://k4nkan.github.io/)
+---
+
+[`Go Back to Top Page`](https://k4nkan.github.io/)

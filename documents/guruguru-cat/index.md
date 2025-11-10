@@ -7,4 +7,6 @@
 - [ページリンク](https://guruguru-cat.vercel.app/)
 
 
-[top](https://k4nkan.github.io/)
+---
+
+[`Go Back to Top Page`](https://k4nkan.github.io/)

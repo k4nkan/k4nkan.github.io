@@ -46,4 +46,6 @@ This repository fetches your recent Spotify listening history and saves it to a 
 This process will save tracks played within the **last hour** to the `spotify-logs` table in your Supabase database.
 
 
-[top](https://k4nkan.github.io/)
+---
+
+[`Go Back to Top Page`](https://k4nkan.github.io/)

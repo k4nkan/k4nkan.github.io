@@ -6,4 +6,6 @@ code2vecを用いたコードのグループ化、類似度の算出
 - https://www.notion.so/Code2vec-14571b2bd1d080b0a67cf2fd975e837b
 
 
-[top](https://k4nkan.github.io/)
+---
+
+[`Go Back to Top Page`](https://k4nkan.github.io/)
