@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 540.0
+> Contributions : 562.0
 >
-> Last Updated : 2025-11-10T20:21:52Z
+> Last Updated : 2025-11-11T20:20:24Z
 >
 > Languages : `Python`
 
@@ -120,7 +120,7 @@
 >
 > Contributions : 26.0
 >
-> Last Updated : 2025-11-10T12:41:31Z
+> Last Updated : 2025-11-10T21:12:27Z
 >
 > Languages : `Python`
 
@@ -154,20 +154,6 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/browser-use-dishcode-backend-api/)
 
-## guruguru-cat
-
-> Repo Link : [guruguru-cat](https://github.com/k4nkan/guruguru-cat)
->
-> Description : No Description
->
-> Contributions : 12.0
->
-> Last Updated : 2025-09-14T07:16:56Z
->
-> Languages : `JavaScript`, `CSS`, `HTML`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/guruguru-cat/)
-
 ## lab_code2vec
 
 > Repo Link : [lab_code2vec](https://github.com/k4nkan/lab_code2vec)
@@ -182,19 +168,19 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
 
-## save-spotify-logs
+## guruguru-cat
 
-> Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
+> Repo Link : [guruguru-cat](https://github.com/k4nkan/guruguru-cat)
 >
-> Description : Save Spotify Logs to Supabase by using GitHub Actions
+> Description : No Description
 >
-> Contributions : 7.0
+> Contributions : 12.0
 >
-> Last Updated : 2025-11-05T04:40:35Z
+> Last Updated : 2025-09-14T07:16:56Z
 >
-> Languages : `Python`
+> Languages : `JavaScript`, `CSS`, `HTML`
 
-[`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
+[`Watch Detail`](https://k4nkan.github.io/documents/guruguru-cat/)
 
 ## photo-to-3d-to-website
 
@@ -210,6 +196,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
 
+## save-spotify-logs
+
+> Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
+>
+> Description : Save Spotify Logs to Supabase by using GitHub Actions
+>
+> Contributions : 7.0
+>
+> Last Updated : 2025-11-05T04:40:35Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
+
 ## ast-diff-research
 
 > Repo Link : [ast-diff-research](https://github.com/k4nkan/ast-diff-research)
@@ -223,20 +223,6 @@
 > Languages : `Dockerfile`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/ast-diff-research/)
-
-## popup-sample
-
-> Repo Link : [popup-sample](https://github.com/k4nkan/popup-sample)
->
-> Description : No Description
->
-> Contributions : 3.0
->
-> Last Updated : 2025-07-21T07:41:35Z
->
-> Languages : `CSS`, `HTML`, `JavaScript`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
 
 ## hitokoma
 
@@ -252,6 +238,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
 
+## popup-sample
+
+> Repo Link : [popup-sample](https://github.com/k4nkan/popup-sample)
+>
+> Description : No Description
+>
+> Contributions : 3.0
+>
+> Last Updated : 2025-07-21T07:41:35Z
+>
+> Languages : `CSS`, `HTML`, `JavaScript`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
+
 ## DailyLogs
 
 > Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
@@ -265,6 +265,20 @@
 > Languages : `Swift`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
+
+## auto-readme
+
+> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
+>
+> Description : Automatically analyze specified repositories and generate README files
+>
+> Contributions : 1.0
+>
+> Last Updated : 2025-11-11T17:46:53Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
 
 ## Melog
 

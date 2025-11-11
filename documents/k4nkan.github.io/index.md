@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 526.0
+> Contributions : 540.0
 >
-> Last Updated : 2025-11-10T06:30:46Z
+> Last Updated : 2025-11-10T20:21:52Z
 >
 > Languages : `Python`
 
@@ -112,6 +112,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/about_me/)
 
+## k4nkan.github.io
+
+> Repo Link : [k4nkan.github.io](https://github.com/k4nkan/k4nkan.github.io)
+>
+> Description : Save data from the GitHub API to Markdown and deploy it to GitHub Pages.
+>
+> Contributions : 26.0
+>
+> Last Updated : 2025-11-10T12:41:31Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/k4nkan.github.io/)
+
 ## idea-search
 
 > Repo Link : [idea-search](https://github.com/k4nkan/idea-search)
@@ -139,20 +153,6 @@
 > Languages : `Python`, `Dockerfile`, `Procfile`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/browser-use-dishcode-backend-api/)
-
-## k4nkan.github.io
-
-> Repo Link : [k4nkan.github.io](https://github.com/k4nkan/k4nkan.github.io)
->
-> Description : Save data from the GitHub API to Markdown and deploy it to GitHub Pages.
->
-> Contributions : 18.0
->
-> Last Updated : 2025-11-09T21:11:11Z
->
-> Languages : `Python`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/k4nkan.github.io/)
 
 ## guruguru-cat
 
@@ -182,20 +182,6 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
 
-## photo-to-3d-to-website
-
-> Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
->
-> Description : Convert an image into a 3D model and render it using HTML, CSS, JavaScript, and Three.js.
->
-> Contributions : 7.0
->
-> Last Updated : 2025-11-07T14:09:12Z
->
-> Languages : `JavaScript`, `HTML`, `CSS`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
-
 ## save-spotify-logs
 
 > Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
@@ -209,6 +195,20 @@
 > Languages : `Python`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
+
+## photo-to-3d-to-website
+
+> Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
+>
+> Description : Convert an image into a 3D model and render it using HTML, CSS, JavaScript, and Three.js.
+>
+> Contributions : 7.0
+>
+> Last Updated : 2025-11-07T14:09:12Z
+>
+> Languages : `JavaScript`, `HTML`, `CSS`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
 
 ## ast-diff-research
 
@@ -224,20 +224,6 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/ast-diff-research/)
 
-## hitokoma
-
-> Repo Link : [hitokoma](https://github.com/k4nkan/hitokoma)
->
-> Description : No Description
->
-> Contributions : 3.0
->
-> Last Updated : 2025-10-17T13:32:35Z
->
-> Languages : `TypeScript`, `CSS`, `JavaScript`, `HTML`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
-
 ## popup-sample
 
 > Repo Link : [popup-sample](https://github.com/k4nkan/popup-sample)
@@ -251,6 +237,20 @@
 > Languages : `CSS`, `HTML`, `JavaScript`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
+
+## hitokoma
+
+> Repo Link : [hitokoma](https://github.com/k4nkan/hitokoma)
+>
+> Description : No Description
+>
+> Contributions : 3.0
+>
+> Last Updated : 2025-10-17T13:32:35Z
+>
+> Languages : `TypeScript`, `CSS`, `JavaScript`, `HTML`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
 
 ## DailyLogs
 
