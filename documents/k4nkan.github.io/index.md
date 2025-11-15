@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 606.0
+> Contributions : 628.0
 >
-> Last Updated : 2025-11-13T20:21:11Z
+> Last Updated : 2025-11-14T20:20:52Z
 >
 > Languages : `Python`
 
@@ -120,7 +120,7 @@
 >
 > Contributions : 26.0
 >
-> Last Updated : 2025-11-12T21:13:06Z
+> Last Updated : 2025-11-13T21:13:00Z
 >
 > Languages : `Python`
 
@@ -252,6 +252,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
 
+## auto-readme
+
+> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
+>
+> Description : Automatically analyze specified repositories and generate README files
+>
+> Contributions : 2.0
+>
+> Last Updated : 2025-11-14T17:59:21Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
+
 ## DailyLogs
 
 > Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
@@ -265,20 +279,6 @@
 > Languages : `Swift`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
-
-## auto-readme
-
-> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
->
-> Description : Automatically analyze specified repositories and generate README files
->
-> Contributions : 1.0
->
-> Last Updated : 2025-11-11T17:46:53Z
->
-> Languages : `Python`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
 
 ## Melog
 
