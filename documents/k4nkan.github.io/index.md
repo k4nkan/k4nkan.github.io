@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 672.0
+> Contributions : 828.0
 >
-> Last Updated : 2025-11-16T20:19:27Z
+> Last Updated : 2025-11-24T01:39:01Z
 >
 > Languages : `Python`
 
@@ -118,9 +118,9 @@
 >
 > Description : Save data from the GitHub API to Markdown and deploy it to GitHub Pages.
 >
-> Contributions : 26.0
+> Contributions : 28.0
 >
-> Last Updated : 2025-11-15T21:10:55Z
+> Last Updated : 2025-11-24T03:00:24Z
 >
 > Languages : `Python`
 
@@ -252,20 +252,6 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
 
-## auto-readme
-
-> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
->
-> Description : Automatically analyze specified repositories and generate README files
->
-> Contributions : 2.0
->
-> Last Updated : 2025-11-14T17:59:21Z
->
-> Languages : `Python`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
-
 ## DailyLogs
 
 > Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
@@ -280,6 +266,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
 
+## auto-readme
+
+> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
+>
+> Description : Automatically analyze specified repositories and generate README files
+>
+> Contributions : 2.0
+>
+> Last Updated : 2025-11-14T17:59:21Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
+
 ## Melog
 
 > Repo Link : [Melog](https://github.com/k4nkan/Melog)
@@ -293,6 +293,20 @@
 > Languages : `None`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/Melog/)
+
+## aki-bot
+
+> Repo Link : [aki-bot](https://github.com/k4nkan/aki-bot)
+>
+> Description : Retrieve schedules from the Google Calendar API and automatically suggest available times.
+>
+> Contributions : 0.0
+>
+> Last Updated : 2025-11-17T12:44:45Z
+>
+> Languages : `None`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/aki-bot/)
 
 
 

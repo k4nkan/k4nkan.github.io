@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 828.0
+> Contributions : 831.0
 >
-> Last Updated : 2025-11-24T01:39:01Z
+> Last Updated : 2025-11-24T05:20:00Z
 >
 > Languages : `Python`
 
@@ -118,9 +118,9 @@
 >
 > Description : Save data from the GitHub API to Markdown and deploy it to GitHub Pages.
 >
-> Contributions : 28.0
+> Contributions : 29.0
 >
-> Last Updated : 2025-11-24T03:00:24Z
+> Last Updated : 2025-11-24T03:12:48Z
 >
 > Languages : `Python`
 
@@ -154,20 +154,6 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/browser-use-dishcode-backend-api/)
 
-## lab_code2vec
-
-> Repo Link : [lab_code2vec](https://github.com/k4nkan/lab_code2vec)
->
-> Description : No Description
->
-> Contributions : 12.0
->
-> Last Updated : 2024-12-12T07:17:33Z
->
-> Languages : `Python`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
-
 ## guruguru-cat
 
 > Repo Link : [guruguru-cat](https://github.com/k4nkan/guruguru-cat)
@@ -182,19 +168,19 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/guruguru-cat/)
 
-## photo-to-3d-to-website
+## lab_code2vec
 
-> Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
+> Repo Link : [lab_code2vec](https://github.com/k4nkan/lab_code2vec)
 >
-> Description : Convert an image into a 3D model and render it using HTML, CSS, JavaScript, and Three.js.
+> Description : No Description
 >
-> Contributions : 7.0
+> Contributions : 12.0
 >
-> Last Updated : 2025-11-07T14:09:12Z
+> Last Updated : 2024-12-12T07:17:33Z
 >
-> Languages : `JavaScript`, `HTML`, `CSS`
+> Languages : `Python`
 
-[`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
+[`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
 
 ## save-spotify-logs
 
@@ -210,6 +196,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
 
+## photo-to-3d-to-website
+
+> Repo Link : [photo-to-3d-to-website](https://github.com/k4nkan/photo-to-3d-to-website)
+>
+> Description : Convert an image into a 3D model and render it using HTML, CSS, JavaScript, and Three.js.
+>
+> Contributions : 7.0
+>
+> Last Updated : 2025-11-07T14:09:12Z
+>
+> Languages : `JavaScript`, `HTML`, `CSS`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
+
 ## ast-diff-research
 
 > Repo Link : [ast-diff-research](https://github.com/k4nkan/ast-diff-research)
@@ -223,6 +223,20 @@
 > Languages : `Dockerfile`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/ast-diff-research/)
+
+## auto-readme
+
+> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
+>
+> Description : Automatically analyze specified repositories and generate README files
+>
+> Contributions : 3.0
+>
+> Last Updated : 2025-11-24T04:04:23Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
 
 ## hitokoma
 
@@ -265,20 +279,6 @@
 > Languages : `Swift`
 
 [`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
-
-## auto-readme
-
-> Repo Link : [auto-readme](https://github.com/k4nkan/auto-readme)
->
-> Description : Automatically analyze specified repositories and generate README files
->
-> Contributions : 2.0
->
-> Last Updated : 2025-11-14T17:59:21Z
->
-> Languages : `Python`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
 
 ## Melog
 
