@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 831.0
+> Contributions : 846.0
 >
-> Last Updated : 2025-11-24T05:20:00Z
+> Last Updated : 2025-11-24T20:21:54Z
 >
 > Languages : `Python`
 
@@ -120,7 +120,7 @@
 >
 > Contributions : 29.0
 >
-> Last Updated : 2025-11-24T03:12:48Z
+> Last Updated : 2025-11-24T05:48:38Z
 >
 > Languages : `Python`
 
@@ -210,6 +210,20 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
 
+## DailyLogs
+
+> Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
+>
+> Description : No Description
+>
+> Contributions : 6.0
+>
+> Last Updated : 2025-11-24T16:56:22Z
+>
+> Languages : `Python`
+
+[`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
+
 ## ast-diff-research
 
 > Repo Link : [ast-diff-research](https://github.com/k4nkan/ast-diff-research)
@@ -238,20 +252,6 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/auto-readme/)
 
-## hitokoma
-
-> Repo Link : [hitokoma](https://github.com/k4nkan/hitokoma)
->
-> Description : No Description
->
-> Contributions : 3.0
->
-> Last Updated : 2025-10-17T13:32:35Z
->
-> Languages : `TypeScript`, `CSS`, `JavaScript`, `HTML`
-
-[`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
-
 ## popup-sample
 
 > Repo Link : [popup-sample](https://github.com/k4nkan/popup-sample)
@@ -266,19 +266,19 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/popup-sample/)
 
-## DailyLogs
+## hitokoma
 
-> Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
+> Repo Link : [hitokoma](https://github.com/k4nkan/hitokoma)
 >
 > Description : No Description
 >
-> Contributions : 2.0
+> Contributions : 3.0
 >
-> Last Updated : 2025-10-13T15:38:54Z
+> Last Updated : 2025-10-17T13:32:35Z
 >
-> Languages : `Swift`
+> Languages : `TypeScript`, `CSS`, `JavaScript`, `HTML`
 
-[`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
+[`Watch Detail`](https://k4nkan.github.io/documents/hitokoma/)
 
 ## Melog
 
