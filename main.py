@@ -37,7 +37,7 @@ def fetch_repo(user: str) -> Context:
         print("✅ Repositories fetched successfully\n")
         return Context(user, df)
 
-    except Exception as e:
+    except requests.RequestException as e:
         print(f"❌ fetch_repo failed: {e}")
         sys.exit(1)
 
@@ -47,11 +47,16 @@ def update_repo_data(ctx: Context, title: str):
     """Add description, updated_at, languages, and contributions."""
     try:
         # Get detailed repo info
-        repo_detail = requests.get(
-            f"https://api.github.com/repos/{ctx.user}/{title}",
-            timeout=10,
-            headers=HEADERS,
-        ).json()
+        url = f"https://api.github.com/repos/{ctx.user}/{title}"
+        res = requests.get(url, timeout=10, headers=HEADERS)
+
+        if res.status_code != 200:
+            print(
+                f"⚠️ Skipping {title}: Failed to fetch details (Status: {res.status_code})"
+            )
+            return
+
+        repo_detail = res.json()
 
         ctx.data.loc[ctx.data["name"] == title, "updated_at"] = repo_detail.get(
             "updated_at", ""
@@ -61,26 +66,40 @@ def update_repo_data(ctx: Context, title: str):
         )
 
         # Languages
-        repo_languages = requests.get(
-            repo_detail.get("languages_url", ""), timeout=10, headers=HEADERS
-        ).json()
-        ctx.data.loc[ctx.data["name"] == title, "languages"] = [repo_languages]
+        languages_url = repo_detail.get("languages_url")
+        if languages_url:
+            res_lang = requests.get(languages_url, timeout=10, headers=HEADERS)
+            if res_lang.status_code == 200:
+                repo_languages = res_lang.json()
+                ctx.data.loc[ctx.data["name"] == title, "languages"] = [repo_languages]
+            else:
+                print(
+                    f"⚠️ Failed to fetch languages for {title} (Status: {res_lang.status_code})"
+                )
 
         # Contributions (first contributor's commits)
-        repo_contributors = requests.get(
-            repo_detail.get("contributors_url", ""), timeout=10, headers=HEADERS
-        ).json()
-
-        if isinstance(repo_contributors, list) and repo_contributors:
-            ctx.data.loc[ctx.data["name"] == title, "contributions"] = (
-                repo_contributors[0].get("contributions", 0)
-            )
+        contributors_url = repo_detail.get("contributors_url")
+        if contributors_url:
+            res_contrib = requests.get(contributors_url, timeout=10, headers=HEADERS)
+            if res_contrib.status_code == 200:
+                repo_contributors = res_contrib.json()
+                if isinstance(repo_contributors, list) and repo_contributors:
+                    ctx.data.loc[ctx.data["name"] == title, "contributions"] = (
+                        repo_contributors[0].get("contributions", 0)
+                    )
+                else:
+                    ctx.data.loc[ctx.data["name"] == title, "contributions"] = 0
+            else:
+                print(
+                    f"⚠️ Failed to fetch contributors for {title} "
+                    f"(Status: {res_contrib.status_code})"
+                )
+                ctx.data.loc[ctx.data["name"] == title, "contributions"] = 0
         else:
             ctx.data.loc[ctx.data["name"] == title, "contributions"] = 0
 
-    except Exception as e:
-        print(f"❌ update_repo_data failed: {e}")
-        sys.exit(1)
+    except requests.RequestException as e:
+        print(f"❌ update_repo_data failed for {title}: {e}")
 
 
 # === Step 3: Output repository README locally ===
@@ -106,11 +125,13 @@ def output_repo_data(ctx: Context, title: str):
 
         with open(os.path.join(folder_path, "index.md"), "w", encoding="utf-8") as f:
             f.write(md_content)
-            f.write(f"\n\n---\n\n[`Go Back to Top Page`](https://{ctx.user}.github.io/)\n")
+            f.write(
+                f"\n\n---\n\n[`Go Back to Top Page`](https://{ctx.user}.github.io/)\n"
+            )
 
         print(f"✅ {title}: index.md created")
 
-    except Exception as e:
+    except requests.RequestException as e:
         print(f"❌ output_repo_data failed: {e}")
 
 
