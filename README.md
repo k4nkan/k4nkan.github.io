@@ -6,9 +6,9 @@
 >
 > Description : Convert Spotify and GitHub API data into CSV and display it on my profile overview.
 >
-> Contributions : 868.0
+> Contributions : 890.0
 >
-> Last Updated : 2025-11-25T20:21:33Z
+> Last Updated : 2025-11-26T20:20:45Z
 >
 > Languages : `Python`
 
@@ -120,7 +120,7 @@
 >
 > Contributions : 29.0
 >
-> Last Updated : 2025-11-24T21:13:26Z
+> Last Updated : 2025-11-25T21:12:57Z
 >
 > Languages : `Python`
 
@@ -182,19 +182,19 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/lab_code2vec/)
 
-## save-spotify-logs
+## DailyLogs
 
-> Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
+> Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
 >
-> Description : Save Spotify Logs to Supabase by using GitHub Actions
+> Description : No Description
 >
 > Contributions : 7.0
 >
-> Last Updated : 2025-11-05T04:40:35Z
+> Last Updated : 2025-11-26T14:35:04Z
 >
 > Languages : `Python`
 
-[`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
+[`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
 
 ## photo-to-3d-to-website
 
@@ -210,19 +210,19 @@
 
 [`Watch Detail`](https://k4nkan.github.io/documents/photo-to-3d-to-website/)
 
-## DailyLogs
+## save-spotify-logs
 
-> Repo Link : [DailyLogs](https://github.com/k4nkan/DailyLogs)
+> Repo Link : [save-spotify-logs](https://github.com/k4nkan/save-spotify-logs)
 >
-> Description : No Description
+> Description : Save Spotify Logs to Supabase by using GitHub Actions
 >
-> Contributions : 6.0
+> Contributions : 7.0
 >
-> Last Updated : 2025-11-24T16:56:22Z
+> Last Updated : 2025-11-05T04:40:35Z
 >
 > Languages : `Python`
 
-[`Watch Detail`](https://k4nkan.github.io/documents/DailyLogs/)
+[`Watch Detail`](https://k4nkan.github.io/documents/save-spotify-logs/)
 
 ## ast-diff-research
 
