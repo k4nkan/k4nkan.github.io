@@ -1,56 +1,57 @@
-# Daily Logs
+# DailyLogs
 
-A Discord bot for managing daily logs using the Discord API and Notion API.
+## Project Overview
 
-## Features
+DailyLogs is a system designed to automate the process of keeping a daily journal. It allows you to send casual messages to a Discord bot throughout the day. These messages are stored and then processed to generate a structured daily log.
 
-- **Discord Bot**: Interacts with users on Discord to collect daily logs.
-- **Notion Integration**: Fetches and updates daily logs in a Notion database.
+The workflow is as follows:
 
-## Setup
+1.  **Input**: You send messages to a Discord bot.
+2.  **Storage**: The bot saves these messages and their timestamps to Supabase.
+3.  **Processing**: A daily job retrieves the day's messages.
+4.  **Summarization**: OpenAI's API is used to summarize the messages into a coherent diary entry.
+5.  **Output**: The summary is printed (and can be pushed to Notion).
+
+## How to Run
 
 ### Prerequisites
 
-- Python 3.8 or higher
-- A Discord Bot Token
-- A Notion Integration Token and Database ID
+- Python 3.13 or higher
+- A `.env` file in the root directory with the following keys:
+  - `DISCORD_TOKEN`
+  - `SUPABASE_URL`
+  - `SUPABASE_KEY`
+  - `OPENAI_API_KEY`
+  - `NOTION_API_KEY` (Optional)
+  - `NOTION_DATABASE_ID` (Optional)
 
-### Installation
+### 1. Run the Discord Bot
 
-1.  **Clone the repository**:
-
-    ```bash
-    git clone <repository_url>
-    cd DailyLogs
-    ```
-
-2.  **Install dependencies**:
-
-    ```bash
-    pip install discord.py requests python-dotenv
-    ```
-
-3.  **Environment Variables**:
-    Create a `.env` file in the root directory and add your keys:
-    ```env
-    DISCORD_TOKEN=your_discord_bot_token
-    NOTION_API_KEY=your_notion_api_key
-    NOTION_DATABASE_ID=your_notion_database_id
-    ```
-
-## Usage
-
-Run the bot using the following command:
+Start the bot to begin collecting messages.
 
 ```bash
-python scripts/main.py
+python -m app.main
 ```
 
-To test the Notion integration separately:
+### 2. Generate Daily Log
+
+Run the job to generate a summary for the current day (UTC based).
 
 ```bash
-python scripts/notion.py
+python -m app.jobs.generate_daily_log
 ```
+
+## Architecture
+
+The project is structured as follows:
+
+- **`app/bot`**: Contains the Discord bot logic and event handlers.
+- **`app/services`**: Handles interactions with external services.
+  - `supabase.py`: Manages data storage and retrieval.
+  - `openai_api.py`: Handles text summarization using LLMs.
+  - `notion.py`: Interfaces with Notion for publishing logs.
+- **`app/jobs`**: Contains scripts for batch processing, such as `generate_daily_log.py`.
+- **`app/configs`**: Configuration modules for loading environment variables.
 
 
 ---
